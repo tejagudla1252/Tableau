@@ -3,6 +3,7 @@
 A collection of 8 end-to-end Tableau projects spanning public sector analytics, HR intelligence, education, agriculture, and energy — each built with interactive dashboards, calculated fields, and data storytelling techniques designed for executive and operational audiences.
 
 **Author:** Tejamanikanta Gudla | Dallas, TX
+**LinkedIn:** [linkedin.com/in/tejamanikantagudla](https://www.linkedin.com/in/tejamanikantagudla/)
 
 ---
 
